@@ -1,4 +1,4 @@
-# luffy Userbot
+# luffy Userbot ini fork an apis yang tampan😎
 ![luffy-Userbot Logo](https://telegra.ph/file/af8825276e64712e8aa67.jpg)
 
 
@@ -32,7 +32,7 @@ String_Session [Tekan](https://replit.com/@mrismanaziz/stringen?lite=1&outputonl
 ## <p align="center">DEPLOY luffy-Bot</p>
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Abror0110/luffy-Bot/tree/luffy-Bot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-magenta?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/apisgbot/luffy-Bot/tree/luffy-Bot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-magenta?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 <br>
 </p>
