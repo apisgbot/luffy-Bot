@@ -29,6 +29,19 @@ async def typewriter(typew):
     await typew.edit("`Asal kota malang, salken yah:)`")
 
 
+@register(outgoing=True, pattern='^.apis(?: |$)(.*)')
+async def typewriter(typew):
+    typew.pattern_match.group(1)
+    sleep(3)
+    await typew.edit("`Yoo kenalin gua apis😎`")
+    sleep(3)
+    await typew.edit("`16 Tahun`")
+    sleep(3)
+    await typew.edit("`Kelas 11`")
+    sleep(1)
+    await typew.edit("`Asal pulau deribu, salken brow👽`")
+
+
 @register(outgoing=True, pattern='^ilyu(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
@@ -76,6 +89,9 @@ CMD_HELP.update({
 \n\nCMD:`.luffy`\
 \nPenjelasan: Cek lah asw.\
 \n\nCMD:`.elsa`\
+\npenjelasan: Cek lh asw.\
+\nPenjelasan: Cek lah asw.\
+\n\nCMD:`.apis`\
 \npenjelasan: Cek lh asw.\
 \n\nCMD:`.ilyu`\
 \nPenjelasan: Cek lah asw.\
