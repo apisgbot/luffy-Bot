@@ -39,7 +39,7 @@ async def typewriter(typew):
     sleep(3)
     await typew.edit("`Kelas 11`")
     sleep(1)
-    await typew.edit("`Asal pulau deribu, salken brow👽`")
+    await typew.edit("`Asal pulau seribu, salken brow👽`")
 
 
 @register(outgoing=True, pattern='^ilyu(?: |$)(.*)')
