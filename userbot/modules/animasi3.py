@@ -38,8 +38,13 @@ async def typewriter(typew):
     await typew.edit("`16 Tahun`")
     sleep(3)
     await typew.edit("`Kelas 11`")
-    sleep(1)
+    sleep(3)
     await typew.edit("`Asal pulau seribu, salken brow👽`")
+    sleep(3)
+    await typew.edit("'Suka entod juga v'")
+    sleep(1)
+    await typew.edit("'apa lagi kalo sama mama kamu, bercanda :v'")
+  
 
 
 @register(outgoing=True, pattern='^ilyu(?: |$)(.*)')
