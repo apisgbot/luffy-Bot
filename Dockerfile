@@ -7,6 +7,6 @@ RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
 
 #Install python requirements
-RUN pip3 install -r https://raw.githubusercontent.com/Abror0110/luffy-Bot/luffy-Bot/requirements.txt
+RUN pip3 install -r https://raw.githubusercontent.com/apisgbot/luffy-Bot/luffy-Bot/requirements.txt
 
 CMD ["python3","-m","userbot"]
